@@ -139,5 +139,3 @@ A stable posting calendar improves engagement rate.
 ### ⭐ 5. Improve Saves & Shares  
 Educational and tutorial content drives more saves.
 
-## 📂 Recommended Repository Structure
-
